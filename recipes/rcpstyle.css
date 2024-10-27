@@ -1,0 +1,17 @@
+body{
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h1{
+    text-align: center;
+    
+}
+.teal{
+    color:  teal;
+    font-size: 14px;
+}
+.orange{
+    color: lightcoral;
+    font-size: 24px;
+}
