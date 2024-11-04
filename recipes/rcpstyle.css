@@ -1,6 +1,7 @@
 body{
     background-color: lightblue;
     font-family: Arial, Helvetica, sans-serif;
+    padding: 8px;
 
 }
 h1{
@@ -10,8 +11,17 @@ h1{
 .teal{
     color:  teal;
     font-size: 14px;
+    text-align: left;
+    padding: 16px;
+    margin: 16px;
 }
 .orange{
+    text-align: center;
+    margin: 16px;
     color: lightcoral;
-    font-size: 24px;
+    font-size: 24px;   
+}
+img{
+    display: block;
+    margin:0 auto ;
 }
